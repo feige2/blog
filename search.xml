@@ -4,7 +4,7 @@
     <title>Docker 入门教程</title>
     <url>/blog/2021-06-27-Docker%E6%95%99%E7%A8%8B1/</url>
     <content><![CDATA[<p><img src="https://www.ruanyifeng.com/blogimg/asset/2018/bg2018020901.png" alt="docker"></p>
-<h2 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h2><p><img src="/xmind/Docker%E6%95%99%E7%A8%8B1.svg" alt="xmind-docker"><span id="more"></span></p>
+<h2 id="本文思维导图"><a href="#本文思维导图" class="headerlink" title="本文思维导图"></a>本文思维导图</h2><p><img src="/blog/xmind/Docker%E6%95%99%E7%A8%8B1.svg" alt="xmind-docker"><span id="more"></span></p>
 <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h3 id="Docker-是什么"><a href="#Docker-是什么" class="headerlink" title="Docker 是什么"></a>Docker 是什么</h3><ul>
 <li>应用容器引擎（Linux 容器 LXC的一种封装，提供简单易用的容器使用接口）</li>
 <li>基于 Go 语言</li>
